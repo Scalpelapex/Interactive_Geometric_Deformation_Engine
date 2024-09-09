@@ -52,5 +52,7 @@ You need to modify the file "./config/config.yaml" to adjust the input/output pa
 3>The file "Serial.h" is about the serial communication. You can set your own communication format.
 
 ## Reference:
+
 <1> https://graphics.ethz.ch/~sumnerb/research/embdef/Sumner2007EDF.pdf
+
 <2> https://github.com/rFalque/embedded_deformation/tree/master
